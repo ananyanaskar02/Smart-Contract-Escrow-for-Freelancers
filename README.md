@@ -2,6 +2,8 @@
 
 ## 📌 Project Description
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad224d68-2e82-4b89-afbe-6945f20e82a3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acd55501-cfd5-4daa-a07f-f6e36215adb7" />
+
 
 This project is a basic escrow smart contract built using Soroban (Stellar’s smart contract platform). It is designed to facilitate secure payments between clients and freelancers by holding funds in escrow until work is completed.
 
